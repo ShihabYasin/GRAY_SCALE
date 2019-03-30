@@ -71,7 +71,7 @@ for i in range(n_boxes):
 
 ##################################    GRAY IMAGE CONVERSION START
 
-img=cv2.imread('/home/shihab/OCR_PRESCRIPTION/GRAY_SCALE/out/LINE_1_WORD_1.jpg', cv2.IMREAD_UNCHANGED)
+img=cv2.imread('/home/shihab/OCR_PRESCRIPTION/GRAY_SCALE/test.jpg', cv2.IMREAD_UNCHANGED)
 
 ########## DownSizing
 

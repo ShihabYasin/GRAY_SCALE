@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bee34de-5f88-4812-8aac-4b1404e2294e" name="Default Changelist" comment="" />
+    <list default="true" id="4bee34de-5f88-4812-8aac-4b1404e2294e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_1_WORD_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_1_WORD_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_1_WORD_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_2_WORD_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_2_WORD_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_4_WORD_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_4_WORD_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_5_WORD_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_5_WORD_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_5_WORD_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_5_WORD_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_6_WORD_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_6_WORD_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_6_WORD_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_6_WORD_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_8_WORD_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_8_WORD_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/LINE_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/test.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_grayed.png" beforeDir="false" afterPath="$PROJECT_DIR$/test_grayed.png" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="59" lean-forward="true" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+            <state relative-caret-position="249">
+              <caret line="89" selection-start-line="89" selection-end-line="89" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -32,7 +65,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DeslantImg" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -53,7 +86,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -65,9 +97,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -127,7 +161,7 @@
     <frame x="0" y="25" width="1366" height="710" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.14743112" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14743112" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -138,38 +172,19 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.28473413" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.28399312" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14743112" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2444062" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39931154" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.28473413" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="59" lean-forward="true" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+        <state relative-caret-position="249">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
